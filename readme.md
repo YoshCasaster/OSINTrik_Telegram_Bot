@@ -6,6 +6,7 @@ Selamat datang di **OSINTrix**!
 Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu ngulik info dari internet cuma lewat chat! 🚀
 
 👉 [Join Komunitas OSINT Telegram](https://t.me/+dqfsXiiyTTozODUx)
+🍀 [WEBSITE CODEFOMO](https://codefomo.xyz)
 
 ---
 
