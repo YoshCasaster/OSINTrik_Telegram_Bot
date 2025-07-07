@@ -1,0 +1,31 @@
+{
+  "user": {
+    "7125009008": {
+      "name": "indonesia",
+      "limit": 82,
+      "register": true,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "group": {},
+  "settings": {
+    "self": false,
+    "online": true,
+    "anticall": false,
+    "autotyping": false,
+    "autorecording": false,
+    "autoread": false,
+    "autobio": false,
+    "autolevelup": true,
+    "blockcmd": [],
+    "max_upload": "50MB",
+    "resetlimit": "02:00"
+  }
+}
