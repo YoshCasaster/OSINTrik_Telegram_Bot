@@ -2,6 +2,8 @@
 
 # ⛔ JANGAN DI JUAL, KETAHUAN DI JUAL GORENG RAME RAME
 
+## 🙏🏻 Penyalahgunaan Tools ini Bukan tanggung jawab Saya sebagai pembuat tools ini. Terimakasih
+
 Selamat datang di **OSINTrix**!
 Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu ngulik info dari internet cuma lewat chat! 🚀
 
