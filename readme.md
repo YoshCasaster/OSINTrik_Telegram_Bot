@@ -64,7 +64,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 4. **Jalankan bot**
 
    ```bash
-   node index.js
+   npm run dev
    ```
 
 ---
