@@ -114,6 +114,14 @@ Dibuat dengan ❤️ oleh **Yoshcc**
 Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 
 ---
+## 🚀 Kontribusi GitHub
+
+<p align="center">
+  <a href="https://github.com/YoshCasaster">
+    <img src="https://avatars.githubusercontent.com/u/132802733?v=4" />
+  </a>
+</p>
+---
 
 🎉 Selamat ngulik, semoga bermanfaat!
 Jangan lupa share ke temen-temen OSINT kamu!
