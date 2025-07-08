@@ -116,11 +116,10 @@ Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 ---
 ## 🚀 Kontribusi GitHub
 
-<p align="center">
-  <a href="https://github.com/YoshCasaster">
-    <img src="https://avatars.githubusercontent.com/u/132802733?v=4" />
-  </a>
-</p>
+| [![User1](https://github.com/user1.png?size=100)](https://github.com/user1) | [![User2](https://github.com/user2.png?size=100)](https://github.com/user2) | [![User3](https://github.com/user3.png?size=100)](https://github.com/user3) |
+|:--:|:--:|:--:|
+| [@user1](https://github.com/YoshCasaster) | [@user2](https://github.com/user2) | [@user3](https://github.com/user3) |
+
 ---
 
 🎉 Selamat ngulik, semoga bermanfaat!
