@@ -116,9 +116,10 @@ Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 ---
 ## 🚀 Kontribusi GitHub
 
-| [![User1](https://github.com/user1.png?size=20)](https://github.com/user1) | [![User2](https://github.com/user2.png?size=20)](https://github.com/user2) | [![User3](https://github.com/user3.png?size=20)](https://github.com/user3) |
+| [![Yosh](https://github.com/YoshCasaster.png?size=100)](https://github.com/YoshCasaster) | [![Octocat](https://github.com/octocat.png?size=100)](https://github.com/octocat) | [![torvalds](https://github.com/torvalds.png?size=100)](https://github.com/torvalds) |
 |:--:|:--:|:--:|
-| [@YoshCasaster](https://github.com/YoshCasaster) | [@user2](https://github.com/user2) | [@user3](https://github.com/user3) |
+| [@YoshCasaster](https://github.com/YoshCasaster) | [@octocat](https://github.com/octocat) | [@torvalds](https://github.com/torvalds) |
+
 
 ---
 
