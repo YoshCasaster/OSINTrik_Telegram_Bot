@@ -110,7 +110,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 
 ## 🧑‍💻 Credits
 
-Dibuat dengan ❤️ oleh **Yoshcc**
+Dibuat dengan ❤️ oleh **YoshCasaster**
 Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 
 ---
