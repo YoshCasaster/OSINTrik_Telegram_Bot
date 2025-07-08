@@ -120,6 +120,8 @@ Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 |:--:|:--:|
 | [@YoshCasaster](https://github.com/YoshCasaster) | [@Lucksi](https://github.com/Lucksi) |
 ---
+Join Kontribusi, buat issue aja yaa >> [Up Issue ](https://github.com/YoshCasaster/OSINTrik_Telegram_Bot/issues)
+---
 
 🎉 Selamat ngulik, semoga bermanfaat!
 Jangan lupa share ke temen-temen OSINT kamu!
