@@ -1,7 +1,14 @@
 # 🕵️‍♂️ OSINTrix Telegram Bot
 
+# ⛔ JANGAN DI JUAL, KETAHUAN DI JUAL GORENG RAME RAME
+
+## 🙏🏻 Penyalahgunaan Tools ini Bukan tanggung jawab Saya sebagai pembuat tools ini. Terimakasih
+
 Selamat datang di **OSINTrix**!
 Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu ngulik info dari internet cuma lewat chat! 🚀
+
+👉 [Join Komunitas OSINT Telegram](https://t.me/+dqfsXiiyTTozODUx)
+🍀 [WEBSITE CODEFOMO](https://codefomo.xyz)
 
 ---
 
@@ -37,7 +44,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 1. **Clone repo ini**
 
    ```bash
-   git clone https://github.com/YoshCasaster/OSINTrix_Telegram_Bot.git
+   git clone https://github.com/username/OSINTrix_Telegram_Bot.git
    cd OSINTrix_Telegram_Bot
    ```
 
@@ -103,7 +110,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 
 ## 🧑‍💻 Credits
 
-Dibuat dengan ❤️ oleh **YoshCasaster**
+Dibuat dengan ❤️ oleh **Yoshcc**
 Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 
 ---
