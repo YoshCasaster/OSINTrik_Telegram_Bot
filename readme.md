@@ -117,10 +117,8 @@ Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 ## 🚀 Kontribusi GitHub
 
 | [![Yosh](https://github.com/YoshCasaster.png?size=100)](https://github.com/YoshCasaster) | [![Lucksi](https://github.com/Lucksi.png?size=100)](https://github.com/Lucksi) |
-|:--:|:--:|:--:|
-| [@YoshCasaster](https://github.com/YoshCasaster) | [@Lucksi](https://github.com/Lucksi) | 
-
-
+|:--:|:--:|
+| [@YoshCasaster](https://github.com/YoshCasaster) | [@Lucksi](https://github.com/Lucksi) |
 ---
 
 🎉 Selamat ngulik, semoga bermanfaat!
