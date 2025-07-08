@@ -9,7 +9,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 
 👉 [Join Komunitas OSINT Telegram](https://t.me/+dqfsXiiyTTozODUx)
 🍀 [WEBSITE CODEFOMO](https://codefomo.xyz)
-
+🚩 [CH WHATSAPP CODEFOMO](https://www.whatsapp.com/channel/0029VafzAqeFSAszE4uo132D)
 ---
 
 ## ✨ Fitur Utama (Kategori OSINT)
