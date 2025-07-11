@@ -9,6 +9,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 
 👉 [Join Komunitas OSINT Telegram](https://t.me/+dqfsXiiyTTozODUx)
 🍀 [WEBSITE CODEFOMO](https://codefomo.xyz)
+🚩 [CH WHATSAPP CODEFOMO](https://www.whatsapp.com/channel/0029VafzAqeFSAszE4uo132D)
 
 ---
 
@@ -64,7 +65,7 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 4. **Jalankan bot**
 
    ```bash
-   node index.js
+   npm run dev
    ```
 
 ---
@@ -110,9 +111,17 @@ Bot Telegram OSINT (Open Source Intelligence) paling gaul, siap bantu kamu nguli
 
 ## 🧑‍💻 Credits
 
-Dibuat dengan ❤️ oleh **Yoshcc**
+Dibuat dengan ❤️ oleh **YoshCasaster**
 Powered by **Node.js**, **Telegraf**, dan komunitas OSINT Indonesia
 
+---
+## 🚀 Kontribusi GitHub
+
+| [![Yosh](https://github.com/YoshCasaster.png?size=100)](https://github.com/YoshCasaster) | [![Lucksi](https://github.com/Lucksi.png?size=100)](https://github.com/Lucksi) |
+|:--:|:--:|
+| [@YoshCasaster](https://github.com/YoshCasaster) | [@Lucksi](https://github.com/Lucksi) |
+---
+Join Kontribusi, buat issue aja yaa >> [Up Issue ](https://github.com/YoshCasaster/OSINTrik_Telegram_Bot/issues)
 ---
 
 🎉 Selamat ngulik, semoga bermanfaat!
